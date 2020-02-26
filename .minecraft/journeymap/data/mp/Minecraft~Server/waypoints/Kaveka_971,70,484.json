@@ -1,0 +1,17 @@
+{
+  "id": "Kaveka_971,70,484",
+  "name": "Kaveka",
+  "icon": "waypoint-normal.png",
+  "x": 971,
+  "y": 70,
+  "z": 484,
+  "r": 196,
+  "g": 194,
+  "b": 214,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
